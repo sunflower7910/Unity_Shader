@@ -6,4 +6,4 @@ Unity Shader: A Unity Shader implemented based on HLSL, which achieves effects s
 
 ![](https://github.com/sunflower7910/Unity_Shader/blob/main/Unity%20Shader%20Nankai%20effect.png)
 
-Note that you should open "Unity Shader Nankai.exe" to see the effect.
+Note that you should open "Unity Shader Nankai.exe" or download the "Unity shader nankai video.mp4" to see the effect. 
